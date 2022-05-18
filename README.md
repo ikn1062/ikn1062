@@ -8,5 +8,6 @@ These projects are currently private as they could reveal answers to courses at 
 
 #### Northwestern University Projects
 - [Active Learning and Control](https://github.com/ikn1062/active-learning-and-control)
+- [Introduction to AI](https://github.com/ikn1062/CS348-intro-to-ai)
 - (Private) ME472 - Haptic Robot for simulating the weight of objects in VR
 - (Private) ME449 - Projects in Modern Robotics Motion Planning and Controls
