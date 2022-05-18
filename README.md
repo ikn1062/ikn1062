@@ -7,5 +7,6 @@ My name is Ishaan and I am a student at Northwestern University pursuing a BS in
 These projects are currently private as they could reveal answers to courses at Northwestern University. Please contact me at ishaannarain2022@u.northwestern.edu for access to these repositories. I apologize for any inconvenience caused.
 
 #### Northwestern University Projects
+- [Active Learning and Control](https://github.com/ikn1062/active-learning-and-control)
 - (Private) ME472 - Haptic Robot for simulating the weight of objects in VR
 - (Private) ME449 - Projects in Modern Robotics Motion Planning and Controls
