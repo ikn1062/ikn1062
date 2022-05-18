@@ -9,5 +9,3 @@ These projects are currently private as they could reveal answers to courses at 
 #### Northwestern University Projects
 - (Private) ME472 - Haptic Robot for simulating the weight of objects in VR
 - (Private) ME449 - Projects in Modern Robotics Motion Planning and Controls
-- (Private) ME443 - Embedded Systems and PIC32 Microcontroller Programming
-- (Private) CS371 - Encoding Financial Health Knowledge Representation and Reasoning to the OpenCyc Ontology 
