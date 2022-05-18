@@ -13,3 +13,4 @@ Some of these projects are currently private as they could reveal answers to cou
 - [Modern Robotics](https://github.com/ikn1062/ME449-Modern-Robotics)
 - [C++ Game Projects](https://github.com/ikn1062/CS212-cpp-game-projects)
 - (Private) ME472 - Haptic Robot for simulating the weight of objects in VR
+- (Private) CS349 - Machine Learning
