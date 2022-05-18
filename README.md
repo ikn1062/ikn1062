@@ -10,5 +10,5 @@ Some of these projects are currently private as they could reveal answers to cou
 - [Active Learning and Control](https://github.com/ikn1062/active-learning-and-control)
 - [Introduction to AI](https://github.com/ikn1062/CS348-intro-to-ai)
 - [Knowledge Representation and Reasoning](https://github.com/ikn1062/CS371_KR-R)
-- (Private) ME449 - Projects in Modern Robotics Motion Planning and Controls
+- [Modern Robotics](https://github.com/ikn1062/ME449-Modern-Robotics)
 - (Private) ME472 - Haptic Robot for simulating the weight of objects in VR
