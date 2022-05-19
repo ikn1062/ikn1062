@@ -6,6 +6,9 @@ My name is Ishaan and I am a student at Northwestern University pursuing a BS in
 ### Projects
 Some of these projects are currently private as they could reveal answers to courses at Northwestern University. Please contact me at ishaannarain2022@u.northwestern.edu for access to these repositories. I apologize for any inconvenience caused.
 
+#### Learning Projects
+- [MNIST Handwritten Number Classifier using Tensorflow](https://github.com/ikn1062/small-projects/tree/main/MNIST)
+
 #### Northwestern University Projects
 - [Active Learning and Control](https://github.com/ikn1062/active-learning-and-control)
 - [Introduction to AI](https://github.com/ikn1062/CS348-intro-to-ai)
