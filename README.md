@@ -6,6 +6,12 @@ My name is Ishaan and I am a student at Northwestern University pursuing a BS in
 ### Projects
 Some of these projects are currently private as they could reveal answers to courses at Northwestern University. Please contact me at ishaannarain2022@u.northwestern.edu for access to these repositories. I apologize for any inconvenience caused.
 
+#### Group Projects
+- [Venmo Request Scheduler](https://github.com/mikeluvin/venmo-scheduler) (Hackathon Winning)
+  -  Manually overode class methods from venmo API library
+  -  Developed Flask end-points to link back-end to front-end
+  -  Included functionality for 2-factor authentication
+
 #### Learning Projects
 - [MNIST Handwritten Number Classifier using Tensorflow](https://github.com/ikn1062/small-projects/tree/main/MNIST)
 
