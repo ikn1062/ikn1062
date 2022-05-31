@@ -5,6 +5,7 @@ My name is Ishaan and I am a student at Northwestern University pursuing a BS in
 
 ### Contact Information:
 Email: ishaannarain2022@u.northwestern.edu
+
 LinkedIn: https://www.linkedin.com/in/ishaan-k-narain/
 
 ## Projects
