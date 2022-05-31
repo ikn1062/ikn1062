@@ -3,8 +3,12 @@
 ## About Me
 My name is Ishaan and I am a student at Northwestern University pursuing a BS in Mechanical Engineering and an MS in Computer Science, and have previously worked as a Technical Program Manager Intern with the Battery Manufacturing team at Tesla. I'm currently learning more about mathematical and computer science applications in quantitative finance and robotics.
 
+### Contact Information:
+Email: ishaannarain2022@u.northwestern.edu
+LinkedIn: https://www.linkedin.com/in/ishaan-k-narain/
+
 ## Projects
-Some of these projects are currently private as they could reveal answers to courses at Northwestern University. Please contact me at ishaannarain2022@u.northwestern.edu for access to these repositories. I apologize for any inconvenience caused.
+Here are some of the projects I have worked on in my own time and as part of Northwestern University courses.
 
 ### Main Projects
 - [Venmo Request Scheduler](https://github.com/mikeluvin/venmo-scheduler) (NU WildHacks 2022 Winner)
@@ -25,3 +29,5 @@ Some of these projects are currently private as they could reveal answers to cou
 
 ### Learning Projects
 - [MNIST Handwritten Number Classifier using Tensorflow](https://github.com/ikn1062/small-projects/tree/main/MNIST)
+
+## Technical Skills
