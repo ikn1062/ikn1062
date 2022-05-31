@@ -32,3 +32,18 @@ Here are some of the projects I have worked on in my own time and as part of Nor
 - [MNIST Handwritten Number Classifier using Tensorflow](https://github.com/ikn1062/small-projects/tree/main/MNIST)
 
 ## Technical Skills
+
+### What I'm Familiar With:
+- Python 3 
+  - Libraries: Numpy, Pandas, MatPlotLib, SymPy, TensorFlow, Requests, Scikit-Learn
+  - Frameworks: Flask
+- C++
+- C
+- Racket
+- Matlab
+- R
+
+### What I'm Learning:
+- Python 3: OpenCV 
+- JavaScript and React
+- HTML and CSS
