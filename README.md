@@ -35,16 +35,27 @@ Here are some of the projects I have worked on in my own time and as part of Nor
 ## Technical Skills
 
 ### What I'm Familiar With:
-- Python 3 
-  - Libraries: Numpy, Pandas, MatPlotLib, SymPy, TensorFlow, Requests, Scikit-Learn
-  - Frameworks: Flask
-- C++
-- C
-- Racket
-- Matlab
-- R
+Languages:
+- Python 3, C++, C, Racket, Matlab, R
+
+Libraries:
+- Python 3 Libraries: Numpy, Pandas, MatPlotLib, SymPy, TensorFlow, Requests, Scikit-Learn
+- C++ Libraries:      Eigen
+
+Frameworks:
+- Python Frameworks:  Flask
+
+Tools:
+- Docker
 
 ### What I'm Learning:
-- Python 3: OpenCV 
-- JavaScript and React
-- HTML and CSS
+Languages:
+- HTML, CSS, Javascript
+
+Libraries:
+- Python Libraries:     OpenCv
+- Javascript Libraries: React JS
+
+Frameworks:
+- Python Frameworks:  Fast API
+
