@@ -36,7 +36,7 @@ Here are some of the projects I have worked on in my own time and as part of Nor
 
 ### What I'm Familiar With:
 Languages:
-- Python 3, C++, C, Racket, Matlab, R
+- Python 3, C++, C, Racket, Matlab, R, ASM (64-bit Intel x86)
 
 Libraries:
 - Python 3 Libraries: Numpy, Pandas, MatPlotLib, SymPy, TensorFlow, Requests, Scikit-Learn
