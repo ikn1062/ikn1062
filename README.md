@@ -13,8 +13,8 @@ Here are some of the projects I have worked on in my own time and as part of Nor
 
 ### Main Projects
 - [Venmo Request Scheduler](https://github.com/mikeluvin/venmo-scheduler) (NU WildHacks 2022 Winner)
-  -  Manually overode class methods from venmo API library
-  -  Wrote backend functionality of the Webapp in Python
+  -  Manually overode class methods from venmo API library and wrote backend functionality of the Webapp in Python
+  -  Created front end user experience for web app with ReactJS
   -  Developed Flask end-points to link back-end to front-end
   -  Included functionality for 2-factor authentication
 
