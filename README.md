@@ -18,8 +18,11 @@ Here are some of the projects I have worked on in my own time and as part of Nor
   -  Developed Flask end-points to link back-end to front-end
   -  Included functionality for 2-factor authentication
 
-### Northwestern University Courses
+### Research
 - [Active Learning and Control](https://github.com/ikn1062/active-learning-and-control)
+
+
+### Northwestern University Courses
 - [Introduction to AI](https://github.com/ikn1062/CS348-intro-to-ai)
 - [Knowledge Representation and Reasoning](https://github.com/ikn1062/CS371_KR-R)
 - [Modern Robotics](https://github.com/ikn1062/ME449-Modern-Robotics)
