@@ -59,6 +59,7 @@ Here are some of the projects I have worked on in my own time and as part of my 
   - Derived kinematic model to estimate arm positions and calculate torque using data from Kalman-filtered sensors and Unity VR
   - Programmed control loop, robot geometry, and serial communication to run in 0.001 seconds per loop with embedded C++
   - •	Created and manufactured electrical board integrating 38 devices including motors, encoders, and 1500W power supply
+  - [Haptic Robot for simulating the weight of objects in VR](https://github.com/ikn1062/vr-wand-robot)
 
 
 - [Northwestern University Solar Car Team - Previous Project Manager and Lead Mechanical Engineer](https://nusolar.org)
@@ -78,7 +79,6 @@ Here are some of the projects I have worked on in my own time and as part of my 
 - [C++ Game Projects](https://github.com/ikn1062/CS212-cpp-game-projects)
 - [Data Privacy Browser Extension](https://github.com/aryanjainnu/dataprivacy)
 - [Machine Learning](https://github.com/ikn1062/CS349-machine-learning)
-- [Haptic Robot for simulating the weight of objects in VR](https://github.com/ikn1062/vr-wand-robot)
 
 
 ### Learning Projects
