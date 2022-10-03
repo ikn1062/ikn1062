@@ -13,9 +13,9 @@ Email: ishaannarain2022@u.northwestern.edu
 LinkedIn: https://www.linkedin.com/in/ishaan-k-narain/
 
 ## Projects
-Here are some of the projects I have worked on in my own time and as part of my time at Northwestern University.
+Below, I have listed some of the projects I have worked on as part of my time at Northwestern University. These projects include some of the work as part of my coursework, personal projects, and research projects.
 
-
+A personal project I am currently working on is a deep deterministic policy gradient AI for autonomous driving systems.
 
 ### Main Projects
 - [DELOS - Deep Learning Model Serving System](https://www.mccormick.northwestern.edu/research/deep-learning/projects/delos/)
