@@ -81,7 +81,7 @@ Here are some of the projects I have worked on in my own time and as part of my 
 - [Machine Learning](https://github.com/ikn1062/CS349-machine-learning)
 
 
-### Learning Projects
+### Smaller Projects
 - [MNIST Handwritten Number Classifier using Tensorflow](https://github.com/ikn1062/small-projects/tree/main/MNIST)
 
 ## Technical Skills
