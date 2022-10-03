@@ -101,10 +101,4 @@ Tools:
 Databases:
 - PostgreSQL (Relational Databases), MongoDB, MySQL
 
-### What I'm Learning:
-Languages:
-- HTML, CSS, Javascript
-
-Libraries:
-- Javascript Libraries: React JS
 
