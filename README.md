@@ -9,6 +9,7 @@ I am currently looking for full-time opportunities in Software Engineering, Quan
 
 ### Contact Information:
 Email: ishaannarain2022@u.northwestern.edu
+
 LinkedIn: https://www.linkedin.com/in/ishaan-k-narain/
 
 ## Projects
