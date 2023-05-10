@@ -18,11 +18,11 @@ Below, I have listed some of the projects I have worked on as part of my time at
 
 ### Current Projects
 
-- [Ergodic Metric and Controller Library for Dynamic System](https://github.com/ikn1062/lfd-omind/tree/main/ergodic-controller)
+- Ergodic Metric and Controller Library for Dynamic System
   - Created reinforcement learning library with model predictive control for autonomous robotics inspired by ergodic metric research
   - Deployed algorithm on 3-Omnid robot swarm, implementing dynamics, trajectory optimization in Python / C++.
   - Derived mathematics for iLQR control via gradient descent by solving Riccati equations from derivative of ergodic objective
-  - Engineered interactive 3D learning-from-demonstration cart-pole simulation using Linux Robot-OS, CMake, and Python NumPy
+  - Engineered interactive 3D learning-from-demonstration cart-pole simulation using Linux Robot-OS 2, CMake, and Python NumPy
   - Some of my initial work in this field can be found here: [Active Learning and Control](https://github.com/ikn1062/active-learning-and-control)
 
 - [Zoom (and Live) Video Speaker Data Analysis](https://github.com/ikn1062/video_analysis)
