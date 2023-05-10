@@ -82,15 +82,15 @@ Below, I have listed some of the projects I have worked on as part of my time at
 
 ### What I'm Familiar With:
 Languages:
-- Python 3, C++ (C++14, C++17), C, Racket, Matlab, Bash, Mathematica, ASM (64-bit Intel x86)
+- Python 3, C++ (C++14, C++17, C++20), C, Racket, Matlab, Mathematica, ASM (64-bit Intel x86)
 
 Libraries:
 - Python 3 Libraries: Numpy, Pandas, MatPlotLib, OpenCV, SymPy, TensorFlow, Requests, Sockets, Scikit-Learn, Asyncio, Fast API, Tkinter
 - Python Frameworks:  Flask, Django
-- C++ Libraries:      Eigen
+- C++ Libraries:      Eigen, Armadillo, STL, Concepts, Catch2
 
 Tools:
-- Docker, Kubernetes, GDB, Vim, Linux, Multithreading, Multiprocessing, RESTful
+- Docker, Kubernetes, GDB, Vim, Linux, Bash, RESTful
 
 Databases:
 - PostgreSQL (Relational Databases), MongoDB, MySQL
