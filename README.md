@@ -1,11 +1,11 @@
 # Hello, I'm Ishaan Narain! 👋
 
 ## About Me
-My name is Ishaan and I am a student at Northwestern University (NU) pursuing an accelerated MS in Computer Science, having just graduated with a BS in Mechanical Engineering in June 2022. I was born and raised in Hong Kong, and attended King George V School.
+My name is Ishaan and I am a recent graduate from Northwestern University (NU) with an MS in Computer Science and a BS in Mechanical Engineering. I was born and raised in Hong Kong, and attended King George V School.
 
-I am currently working on research projects with the Robotics Department in Inverse Reinforcement learning for Swarm Robotics, Applied Mathematics Department in Analyzing Video Data, and am beginning to work on Core Operating Systems Projects in Parallelism. Previously, I have also acted as a Software Engineering Intern at Tesla with the Electrical Systems team working on developing testing frameworks and debugging firmware issues in Python / C++, as well as a Technical Program Manager Intern at Tesla scaling manufacturing lines with the Battery Team. I have also previously worked as a Data Science / MLOps Researcher with the [DELOS](https://www.mccormick.northwestern.edu/research/deep-learning/projects/delos/) team and a Machine Learning Engineering Intern at [InfernoGuard](https://www.infernoguardusa.com) (NU Garage Startup).
+I am currently a Graduate Research Software Engineer at the Presciene Lab at Northwestern University, working on computer / operating systems related projects including database/HPC application optimization, floating point computation, and compiler construction. I am also working on a statistical reinforcement learning and control ROS2 package in C++ inspired by research in Ergodic Imitation and Koopman Operators. Previously, I have also acted as a Software Engineering Intern at Tesla with the Electrical Systems team working on developing testing frameworks in Python and debugging firmware issues in C, as well as a Technical Program Manager Intern at Tesla scaling manufacturing lines with the Battery Team.
 
-I am currently looking for full-time opportunities in Software Engineering, Quant, and Robotics starting in Summer/Fall 2023.
+I am currently looking for full-time opportunities in Software Engineering, Quant, and Robotics starting in Winter 2024.
 
 ### Contact Information:
 Email: ishaannarain2022@u.northwestern.edu
@@ -18,28 +18,20 @@ Below, I have listed some of the projects I have worked on as part of my time at
 
 ### Current Projects
 
-- Ergodic Metric and Controller Library for Dynamic System
-  - Created reinforcement learning library with model predictive control for autonomous robotics inspired by ergodic metric research
-  - Deployed algorithm on 3-Omnid robot swarm, implementing dynamics, trajectory optimization in Python / C++.
+- [Ergodic Metric and Controller Library for Dynamic System](https://github.com/ikn1062/roboti-irl/)
+  - Created C++ reinforcement learning library with model predictive control for autonomous robotics inspired by ergodic metric research
   - Derived mathematics for iLQR control via gradient descent by solving Riccati equations from derivative of ergodic objective
-  - Engineered interactive 3D learning-from-demonstration cart-pole simulation using Linux Robot-OS 2, CMake, and Python NumPy
-  - Some of my initial work in this field can be found here: [Active Learning and Control](https://github.com/ikn1062/active-learning-and-control)
+  - Engineered interactive 3D learning-from-demonstration cart-pole simulation using Linux Robot-OS 2, CMake, and C++
 
 - [Zoom (and Live) Video Speaker Data Analysis](https://github.com/ikn1062/video_analysis)
   - Developed Zoom and Live (OWL) video data collection and analysis app, leveraging OpenCV, Mediapipe, and face recognition Python Libraries
   - Utilized 30 face-mesh tracking points to analyze speaker facial cues to predict the speaker when masks are worn
   - Reduced processing time by 82% using multithreading and multiprocessing functions, executing code in NU Linux computing cluster
-  - Utilized: Python (OpenCV, Mediapipe, Face recognition (dlib), pytesseract, Scikit-learn), Bash, Linux
-
-- [DeepQ Financial Trading Decisions](https://github.com/ikn1062/trading-system-deep-q-learning)
-  -  Implemented deep Q-learning research paper outperforming S&P growth by 18% using Python NumPy, Pandas, and TensorFlow to predict buy, sell, and hold action strategy and number of shares to trade
-  -  Increased profit by 30% through pretraining neural network by transfer learning from stocks with varied correlation to index
-  -  Automated closing-day stock data pipeline by web scraping index data with Beautiful Soup and retrieval from Yahoo Finance API
 
 ### Previous Projects
 
 - [DELOS - Deep Learning Model Serving System](https://www.mccormick.northwestern.edu/research/deep-learning/projects/delos/)
-  - Implemtented neural network retraining module with 100% unit stress testing for deep-model serving by applying ML research 
+  - Implemented automated statistical stress-testing-modules for analyzing performance of re-trained Neural Networks
   - Decreased training time by 24% by dynamically re-optimizing weights using online Multi-Arm Bandit memory replay algorithm
   - Developed stateless full-stack app to improve monitoring of over 20 ML KPIs, leveraging TensorFlow, Mongo, and Kubernetes
   - Some of my work in the application process is linked [here](https://github.com/ikn1062/nu-cdl-delos)
@@ -69,30 +61,4 @@ Below, I have listed some of the projects I have worked on as part of my time at
   -  Coordinated with University administration, faculty, and sponsors to secure funding and material resources over $60,000 of value
   -  Generated 40-page report detailing and analyzing the performance of vehicle systems proving compliance with 300 racing regulations
   - Refined driver and vehicle control communications by integrating 8 vehicle components using CAN protocol in embedded C++ 
-
-### Northwestern University Courses
-- [Introduction to AI](https://github.com/ikn1062/CS348-intro-to-ai)
-- [Knowledge Representation and Reasoning](https://github.com/ikn1062/CS371_KR-R)
-- [Modern Robotics](https://github.com/ikn1062/ME449-Modern-Robotics)
-- [C++ Game Projects](https://github.com/ikn1062/CS212-cpp-game-projects)
-- [Data Privacy Browser Extension](https://github.com/aryanjainnu/dataprivacy)
-- [Machine Learning](https://github.com/ikn1062/CS349-machine-learning)
-
-## Technical Skills
-
-### What I'm Familiar With:
-Languages:
-- Python 3, C++ (C++14, C++17, C++20), C, Racket, Matlab, Mathematica, ASM (64-bit Intel x86)
-
-Libraries:
-- Python 3 Libraries: Numpy, Pandas, MatPlotLib, OpenCV, SymPy, TensorFlow, Requests, Sockets, Scikit-Learn, Asyncio, Fast API, Tkinter
-- Python Frameworks:  Flask, Django
-- C++ Libraries:      Eigen, Armadillo, STL, Concepts, Catch2
-
-Tools:
-- Docker, Kubernetes, GDB, Vim, Linux, Bash, RESTful
-
-Databases:
-- PostgreSQL (Relational Databases), MongoDB, MySQL
-
 
